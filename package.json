@@ -293,9 +293,6 @@
     "should": "~4.0.0",
     "through2": "~0.6.5"
   },
-  "peerDependencies": {
-    "nightwatch": "latest"
-  },
   "files": [
     "bin",
     "images",
