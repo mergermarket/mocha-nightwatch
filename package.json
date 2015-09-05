@@ -1,5 +1,5 @@
 {
-  "name": "mocha",
+  "name": "mocha-nightwatch",
   "version": "2.2.5",
   "description": "simple, flexible, fun test framework",
   "keywords": [
@@ -264,8 +264,8 @@
   ],
   "main": "./index",
   "bin": {
-    "mocha": "./bin/mocha",
-    "_mocha": "./bin/_mocha"
+    "mocha-nightwatch": "./bin/mocha",
+    "_mocha-nightwatch": "./bin/_mocha"
   },
   "engines": {
     "node": ">= 0.8.x"
@@ -292,6 +292,9 @@
     "eslint": "~0.23.0",
     "should": "~4.0.0",
     "through2": "~0.6.5"
+  },
+  "peerDependencies": {
+    "nightwatch": "latest"
   },
   "files": [
     "bin",
