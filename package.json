@@ -1,6 +1,6 @@
 {
   "name": "mocha-nightwatch",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "description": "simple, flexible, fun test framework",
   "keywords": [
     "mocha",
