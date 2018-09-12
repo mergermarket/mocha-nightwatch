@@ -333,7 +333,7 @@
     "karma-sauce-launcher": "^1.0.0",
     "karma-spec-reporter": "0.0.26",
     "os-name": "^2.0.1",
-    "phantomjs": "1.9.8",
+    "phantomjs": "2.1.7",
     "rimraf": "^2.5.2",
     "should": "^9.0.2",
     "through2": "^2.0.1",
