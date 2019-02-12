@@ -305,7 +305,7 @@
     "browser-stdout": "1.3.0",
     "commander": "2.9.0",
     "debug": "2.2.0",
-    "diff": "1.4.0",
+    "diff": "4.0.1",
     "escape-string-regexp": "1.0.5",
     "glob": "7.0.5",
     "growl": "1.9.2",
